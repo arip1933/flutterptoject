@@ -1,0 +1,9 @@
+{
+    "npm.enableRunFromFolder": true,
+    "merge-conflict.autoNavigateNextConflict.enabled": true,
+    "markdown.preview.breaks": true,
+    "JSON-zain.json.autorefresh": true,
+    "html.format.templating": true,
+    "html.format.indentInnerHtml": true,
+    "dart.allowTestsOutsideTestFolder": true
+}
